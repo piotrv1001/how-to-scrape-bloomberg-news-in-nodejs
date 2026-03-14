@@ -2,6 +2,8 @@
 
 This example shows how to scrape Bloomberg category news pages in Node.js using the [Bloomberg Category News Scraper](https://apify.com/piotrv1001/bloomberg-category-news-scraper) actor on Apify — no browser automation or custom scraping code required.
 
+![Bloomberg Category News Scraper results](./bloomberg_results.png)
+
 ## What this example does
 
 - Calls the Bloomberg Category News Scraper actor via the Apify API
