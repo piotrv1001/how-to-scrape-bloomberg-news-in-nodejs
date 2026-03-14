@@ -1,0 +1,13 @@
+{
+  "name": "how-to-scrape-bloomberg-news-in-nodejs",
+  "version": "1.0.0",
+  "description": "Example: scrape Bloomberg category news using the Apify actor in Node.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.3",
+    "dotenv": "^16.4.5"
+  }
+}
