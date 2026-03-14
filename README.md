@@ -104,6 +104,10 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each articl
 
 **[Open the Bloomberg Category News Scraper on Apify](https://apify.com/piotrv1001/bloomberg-category-news-scraper)**
 
+## Related resources
+
+- [How to Scrape Bloomberg News Articles](https://www.falconscrape.com/blog/how-to-scrape-bloomberg-news-articles) — in-depth blog post covering the scraper setup and use cases
+
 ## License
 
 MIT
