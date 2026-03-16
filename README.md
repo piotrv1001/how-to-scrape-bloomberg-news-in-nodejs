@@ -107,6 +107,7 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each articl
 ## Related resources
 
 - [How to Scrape Bloomberg News Articles](https://www.falconscrape.com/blog/how-to-scrape-bloomberg-news-articles) — in-depth blog post covering the scraper setup and use cases
+- [How to Scrape Bloomberg News Articles with Apify](https://www.youtube.com/watch?v=4tql7K5whM8&pp=0gcJCcUKAYcqIYzv) — YouTube tutorial walking through the scraper setup and use cases
 
 ## License
 
